@@ -15,3 +15,4 @@ to the final steps of one step and multi-step forecasting. This includes modelin
 ## Notebooks:
 Note: progressive increase in difficulty
 1) [S&P500 Simple Next Day's Price Prediction](https://github.com/shibzr/time-series/blob/main/sp500-simple-time-series-forecasting.ipynb "Notebook")
+2) [Predicting Weekly Sales Revenus - LightGBM & Optuna](https://github.com/shibzr/time-series/blob/main/Predicting%20Weekly%20Sales%20Revenus%20-%20LightGBM%20%26%20Optuna.ipynb "Notebook")
